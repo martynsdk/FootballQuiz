@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:quiz_app/constants.dart';
-import 'package:quiz_app/controllers/question_controller.dart';
-import 'package:quiz_app/models/Questions.dart';
+import 'package:football_quiz/constants.dart';
+import 'package:football_quiz/controllers/question_controller.dart';
+import 'package:football_quiz/models/Questions.dart';
 import 'package:flutter_svg/svg.dart';
 
 import 'progress_bar.dart';

@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_svg/svg.dart';
 import 'package:get/get.dart';
-import 'package:quiz_app/constants.dart';
-import 'package:quiz_app/screens/quiz/quiz_screen.dart';
+import 'package:football_quiz/constants.dart';
+import 'package:football_quiz/screens/quiz/quiz_screen.dart';
 
 class WelcomeScreen extends StatelessWidget {
   @override
